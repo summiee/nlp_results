@@ -1,6 +1,6 @@
 # FileName; Centroid; currentDistance; finalDistance; NewNodesAdded; NewRelationsAdded 
 Catarrh.txt; ; NaN; NaN; 90; 461
-KidneyFailure.txt; cause; Infinity; Infinity; 232; 4072
+KidneyFailure.txt; cause; 0; 0; 232; 4072
 Tonsillitis.txt; syndrome; 2.081; 6.168; 203; 2649
 AlzheimersDisease.txt; head; 5.687; 16.135; 623; 14260
 RestlessLegsSyndrome.txt; head; 0.0; 0.0; 219; 4819
